@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning Data Science including Machine Learning and AI!
 - 🔭 I’m currently working on **Sentiment Analysis**
 - 📫 Let's Connect : https://www.linkedin.com/in/damar-syarafi-ramadhan-9b4122251/
-### Dont' Forget to Follow!!
+### Don't Forget to Follow!!
 <!--
 **dmareee/dmareee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
